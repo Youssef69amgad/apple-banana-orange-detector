@@ -1,0 +1,12 @@
+# dataset.yaml
+path: D:/mozakraaa/bjd/archive
+
+train: images/train
+val: images/test
+
+nc: 3
+
+names:
+  0: apple
+  1: banana
+  2: orange
